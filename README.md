@@ -1,3 +1,3 @@
 # apnacollege-demo
-This is my demo website
+This is my demo website.
 Author - Subham Gope
